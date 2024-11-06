@@ -14,7 +14,7 @@
 
 ## 💻 Технологии:
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" width="40" height="40">
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" width="40" height="40">](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw3RUVCmxkuIfLyTCvZTfMKm&ust=1730986254344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjWgLjox4kDFQAAAAAdAAAAABAE)
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redux.svg" width="40" height="40">
