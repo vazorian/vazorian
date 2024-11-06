@@ -14,18 +14,18 @@
 
 ## 💻 Технологии:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![React](https://img.shields.io/badge/-React-blue)
-![Redux](https://img.shields.io/badge/-Redux-purple)
-![MobX](https://img.shields.io/badge/-MobX-blue)
-![HTML5](https://img.shields.io/badge/-HTML5-red)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-![Docker](https://img.shields.io/badge/-Docker-blue)
-![Git](https://img.shields.io/badge/-Git-orange)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
-![SCSS](https://img.shields.io/badge/-SCSS-pink)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png)
+![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/42/TypeScript_logo_2020.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
+![MobX](https://upload.wikimedia.org/wikipedia/commons/5/52/MobX.svg)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+![Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png)
+![Git](https://upload.wikimedia.org/wikipedia/commons/2/29/Git-logo.svg)
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
+![SCSS](https://upload.wikimedia.org/wikipedia/commons/a/a9/Sass_Logo.svg)
 
 
 ---
