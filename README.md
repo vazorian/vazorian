@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+
+
 ## 👇 Как связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/vazorian)
