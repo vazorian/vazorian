@@ -41,6 +41,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
+
+---
+
 ## 🛠 Инструменты:
 
 ![Figma](https://img.shields.io/badge/-Figma-red)
