@@ -46,6 +46,8 @@
 
 ## 🛠 Инструменты:
 
-![Figma](https://img.shields.io/badge/-Figma-red)
-![Linux](https://img.shields.io/badge/-Linux-yellow)
-![VSCode](https://img.shields.io/badge/-VSCode-blue)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+</div>
