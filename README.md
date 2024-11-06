@@ -14,18 +14,18 @@
 
 ## 💻 Технологии:
 
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/42/TypeScript_logo_2020.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
-![MobX](https://upload.wikimedia.org/wikipedia/commons/5/52/MobX.svg)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-![Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png)
-![Git](https://upload.wikimedia.org/wikipedia/commons/2/29/Git-logo.svg)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
-![SCSS](https://upload.wikimedia.org/wikipedia/commons/a/a9/Sass_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/TypeScript_logo_2020.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redux.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/MobX_logo.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Git_logo_2010.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo_2020.svg" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Sass_Logo.svg" width="40" height="40">
 
 
 ---
