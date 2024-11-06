@@ -14,18 +14,18 @@
 
 ## 💻 Технологии:
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redux.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mobx.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/react/react-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/mobx/mobx-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/sass/sass-icon.svg" width="40" height="40">
 
 ---
 
