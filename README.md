@@ -24,6 +24,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 ![Docker](https://img.shields.io/badge/-Docker-blue)
 ![Git](https://img.shields.io/badge/-Git-orange)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+![SCSS](https://img.shields.io/badge/-SCSS-pink)
 
 
 ---
