@@ -27,7 +27,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo_2020.svg" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Sass_Logo.svg" width="40" height="40">
 
-
 ---
 
 ## 🛠 Инструменты:
