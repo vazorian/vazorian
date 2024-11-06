@@ -1,11 +1,9 @@
-vazorian / README.md
-
 # Привет, меня зовут Алексей!
 
 ## 👇 Как связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/YourTelegram)
-[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:YourEmail@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/vazorian)
+[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:vazoriandev@gmail.com)
 
 ---
 
