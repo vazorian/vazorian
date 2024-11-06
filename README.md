@@ -14,8 +14,11 @@
 
 ## 🤝 Социальные сети:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-blue)](https://www.instagram.com/vazorian)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/vazorian)
+  <div id="badges">
+    <a href="https://t.me/vazorian" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 
 ---
 
