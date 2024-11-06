@@ -14,18 +14,18 @@
 
 ## 💻 Технологии:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/TypeScript_logo_2020.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redux.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/MobX_logo.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Git_logo_2010.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo_2020.svg" width="40" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Sass_Logo.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redux.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mobx.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" width="40" height="40">
 
 ---
 
