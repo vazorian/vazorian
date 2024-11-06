@@ -14,13 +14,15 @@
 
 ## 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://t.me/vazorian" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+<div id="badges">
+  <a href="https://t.me/vazorian" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/vazorian" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="40" height="40" alt="Instagram" />
+  </a>
+</div>
 
----
 
 ### 💻 Технологии:
 
@@ -37,7 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
----
 
 ## 🛠 Инструменты:
 
