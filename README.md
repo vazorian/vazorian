@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
+<h1> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&size=28&pause=1000&color=000000&random=false&width=260&lines=FrontEnd+Developer" alt="Typing SVG" /></a></h1>
 
 ## 👇 Как связаться со мной:
 
