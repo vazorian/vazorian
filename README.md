@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&size=28&pause=1000&color=FFFFFF&random=false&width=260&lines=FrontEnd+Developer" alt="Typing SVG" />
   </a>
 </h1>
-
+ 
 ## 👇 Как связаться со мной:
 
 [![Telegram Badge](https://img.shields.io/badge/-vazorian-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vazorian)
